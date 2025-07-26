@@ -1,0 +1,4 @@
+.env
+points.json
+sessionLogs.json
+node_modules/
